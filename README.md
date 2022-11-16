@@ -1,6 +1,8 @@
-# OEE Polkaadot smart contract in Rust :crab:
+# OEE Polkadot smart contract in Rust :crab:
 
 Polkadot smart contract in Rust to measure the Overall Equipment Efectiveness (OEE) of industrial machines.
+
+![image](https://user-images.githubusercontent.com/43546156/202143936-eeda5442-19ac-4bd8-bf78-9249d9ba18fd.png)
 
 OEE is set as valid when higher than 60%.
 
